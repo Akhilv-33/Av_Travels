@@ -6,4 +6,4 @@ AV Travels specializes in providing thrilling adventure activities and curated t
 
 Technologies Used:Html,Css,js
 
-WEBSITE LINK:file:///Users/akhilvarma/Desktop/HTML/index1.html#contact
+WEBSITE LINK:
